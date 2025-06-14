@@ -35,3 +35,19 @@ button {
 
  
 }
+
+
+div{
+  background-color:rgba(193, 151, 88, 0.71);
+  padding: 15%;
+  border-radius: 5%;
+  
+}
+
+img{
+  width: 200px;
+  height:200px;
+  display: block;
+  margin: auto;
+
+}
