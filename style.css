@@ -38,8 +38,11 @@ button {
 
 
 div{
+  display: block;
   background-color:rgba(193, 151, 88, 0.71);
-  padding: 15%;
+  width: 150%;
+  height: 150%;
+  padding: 10%;
   border-radius: 5%;
   
 }
